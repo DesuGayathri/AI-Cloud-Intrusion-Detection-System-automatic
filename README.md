@@ -4,13 +4,13 @@ Here’s a clear, professional **project description** you can use for your **AI
 
 ---
 
-### 📌 Project Title
+###  Project Title
 
 **AI-Based Cloud Intrusion Detection System**
 
 ---
 
-### 📖 Description
+###  Description
 
 The **AI Cloud Intrusion Detection System** is a cybersecurity solution designed to monitor, detect, and respond to suspicious activities in cloud environments using **Artificial Intelligence (AI)** and **Machine Learning (ML)** techniques.
 
@@ -22,7 +22,7 @@ A user-friendly dashboard is integrated into the system to visualize alerts, att
 
 ---
 
-### 🎯 Objectives
+###  Objectives
 
 * Detect intrusions in cloud systems using AI/ML
 * Improve accuracy over traditional rule-based systems
@@ -32,7 +32,7 @@ A user-friendly dashboard is integrated into the system to visualize alerts, att
 
 ---
 
-### ⚙️ Technologies Used
+###  Technologies Used
 
 * **Frontend**: HTML, CSS, JavaScript (Dashboard UI)
 * **Backend**: Python (Flask)
@@ -43,7 +43,7 @@ A user-friendly dashboard is integrated into the system to visualize alerts, att
 
 ---
 
-### 🚀 Key Features
+###  Key Features
 
 * Real-time network traffic monitoring
 * AI-based anomaly detection
@@ -54,7 +54,7 @@ A user-friendly dashboard is integrated into the system to visualize alerts, att
 
 ---
 
-### 📊 Outcome
+###  Outcome
 
 This project demonstrates how AI can enhance cloud security by providing faster, more accurate detection of cyber threats compared to traditional systems. It helps organizations proactively defend against attacks and ensure data integrity and availability.
 
